@@ -1,0 +1,4 @@
+﻿split,seed,run_id,policy,fixed_delta_min,initial_delta_s,n,q,r_min_per_min,cutoff_s,total_windows,published_windows,unpublished_windows,truth_messages,unpublished_truth_messages,p95_first_delay_s,missed_messages,first_miss_rate
+test,15403,A1,A,2.0,,,,,32400,48,48,0,3219,0,149,77,0.023920472196334266
+test,15403,B,B,,31.0,100,0.95,,32400,48,48,0,3219,0,112,82,0.025473749611680647
+test,15403,C,C,,31.0,100,0.95,5.0,32400,48,48,0,3219,0,145,82,0.025473749611680647
